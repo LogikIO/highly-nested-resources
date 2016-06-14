@@ -39,6 +39,7 @@
         <div class="container">
             <div class="content">
                 <div class="title">Laravel 5</div>
+                <p><b>Open `app/Http/routes.php` to see where to go from there. <br />You should probably read the `readme.md` file also ;)</b></p>
             </div>
         </div>
     </body>

@@ -46,4 +46,6 @@ php artisan serve
 
 You should get an address to open in your browser like http://localhost:8000.
 
+Hint! Go to URL: `http://localhost:8000/books/mighty-book-name/posts/awesome-post-slug/comments/1` too see the output.
+
 **Have fun!**
